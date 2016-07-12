@@ -2,4 +2,4 @@
 
 Test edit
 
-Now testing for pull requests
+Now testing for fetch and merge
