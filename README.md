@@ -2,5 +2,4 @@
 
 Test edit
 
-Now testing for fetch and merge
-a
+Now testing for fetch and merge on commandline
